@@ -1,0 +1,10 @@
+[hoge]
+name=CentOS-6 - Extras
+baseurl=http://yum.hogesoft.com:8100/
+failovermethod=priority
+enabled=1
+keepcache=1
+gpgcheck=1
+gpgkey=http://yum.hogesoft.com:8100/RPM-GPG-KEY-HOGE
+appid=262 #申请的 appid
+appkey=D0MRduwgDnCAKwaBOGpM8KEp66n0zRG3     #申请的 appkey
